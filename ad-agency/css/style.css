@@ -33,22 +33,22 @@
 /* ===================================
     Google fonts
 ====================================== */
-@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900');
+@import url('https://fonts.googleapis.com/css?family=Impact:100,200,300,400,500,600,700,800,900');
 
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900');
 
 .font-primary {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Impact', sans-serif;
 }
 .font-secondary {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Arial Narrow', sans-serif;
 }
 
 /* ===================================
     General
 ====================================== */
 body {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Arial Narrow', sans-serif;
     font-size: 15px;
     color: #666666;
     font-weight: 300;
@@ -79,7 +79,7 @@ section, .section-padding {position: relative; padding: 7.5rem 0; overflow: hidd
     padding: 7.5rem 0 4rem;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Impact', sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
     line-height: 1;
@@ -881,7 +881,7 @@ nav .btn-setting {
 }
 
 .navbar-top-default .navbar-nav .nav-link {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Impact', sans-serif;
     font-size: 15px;
     font-weight: 500;
     color: #ffffff;
@@ -1162,7 +1162,7 @@ header.header-appear .navbar-top-default .header-social a:hover {
 }
 
 .side-nav .navbar-nav .nav-link {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Impact', sans-serif;
     display: inline-table;
     color: #fff;
     padding: 10px 0 10px 0 !important;
@@ -1415,7 +1415,7 @@ header.header-appear .navbar-top-default .header-social a:hover {
     top: 43% !important;
 }
 .awaza .tp-bullet .tp-count {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Impact', sans-serif;
     font-size: 14px;
     position: relative;
 }
@@ -1641,7 +1641,7 @@ header.header-appear .navbar-top-default .header-social a:hover {
     text-align: center;
 }
 .main-title h5 {
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: "Arial Narrow", sans-serif;
     font-weight: 400;
     margin-bottom: 1.1rem;
     color: #ffffff;
@@ -1686,7 +1686,7 @@ header.header-appear .navbar-top-default .header-social a:hover {
     margin-bottom: -153px;
 }
 .about ul li {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Arial Narrow', sans-serif;
     font-size: 16px;
     display: flex;
     color: #fff;
@@ -2166,7 +2166,7 @@ ul.social_icon li a.google:focus {
 }
 .dollar {
     position: absolute;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Impact', sans-serif;
     font-size: 20px;
     transform: translateX(-95%);
     top: 10px;
